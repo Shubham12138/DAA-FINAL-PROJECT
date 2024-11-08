@@ -160,4 +160,4 @@ The web page is online at the address : **[angeluriot.com/maze_solver](https://a
 
 # Credits
 
-* [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
+* **SHUBHAM** : Creator of the project.
